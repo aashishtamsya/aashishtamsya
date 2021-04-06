@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Swift (iOS), Vapor and Flutter.
 - 🌱 I’m currently learning Vapor and Flutter.
@@ -12,5 +11,6 @@ Here are some ideas to get you started:
 
 <!--
 **aashishtamsya/aashishtamsya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
 -->
