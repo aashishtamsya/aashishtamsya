@@ -1,5 +1,10 @@
-### Hi there 👋
+![Hey there, I'm Aashish. I'm a mobile developer and technology enthusiast. Check out my work](https://github.com/aashishtamsya/aashishtamsya/raw/master/intro.gif)
 
+<!--
+**aashishtamsya/aashishtamsya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+
+### Hi there 👋
 
 - 🔭 I’m currently working on Swift (iOS), Vapor and Flutter.
 - 🌱 I’m currently learning Vapor and Flutter.
@@ -8,9 +13,4 @@
 - 💬 You can view my [portfolio](https://www.aashishtamsya.com).
 - 📫 You can reach me at aashish.tamsya@gmail.com
 - ⚡ Fun fact: I love games and [stream](https://www.youtube.com/c/winny_is_live) when I feel like.
-
-<!--
-**aashishtamsya/aashishtamsya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
 -->
